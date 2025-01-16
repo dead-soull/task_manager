@@ -1,0 +1,7 @@
+setup.py
+dtaskcli.egg-info/PKG-INFO
+dtaskcli.egg-info/SOURCES.txt
+dtaskcli.egg-info/dependency_links.txt
+dtaskcli.egg-info/entry_points.txt
+dtaskcli.egg-info/requires.txt
+dtaskcli.egg-info/top_level.txt
