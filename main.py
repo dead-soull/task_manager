@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-test = 123
-test1 = 321
-test2 = 133
-=======
 import json
 
 ver = "0.0.1"
@@ -22,4 +17,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> Stashed changes
